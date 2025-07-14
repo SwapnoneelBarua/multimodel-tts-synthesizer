@@ -13,7 +13,7 @@ A multilingual, multi-model Text-to-Speech (TTS) synthesizer built with 🐍 Pyt
 - 🎧 **Output:** Download synthesized speech as `.wav` or `.mp3`
 
 ---
-
+## 💻 Setup (Conda Recommended)
 ## 📦 Installation
 
 ### 🔧 1. Clone the repository
