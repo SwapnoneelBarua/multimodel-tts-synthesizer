@@ -93,10 +93,10 @@ Internet required for loading online models from Hugging Face.
 ### 🤝 Contribution
 Pull requests are welcome. Fork the repo, create a feature branch, and submit a PR.
 
-##📄 License
+📄 License
 This project is under the MIT License.
 
-###👤 Developed By
+👤 Developed By
 Swapnoneel Barua
 🔗 LinkedIn | GitHub
 
