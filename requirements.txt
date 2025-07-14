@@ -1,0 +1,9 @@
+streamlit
+pydub
+torch
+transformers
+soundfile
+sentencepiece
+TTS
+onnxruntime
+kokoro @ git+https://github.com/hexgrad/kokoro.git
