@@ -68,7 +68,7 @@ Just select a model and click Synthesize.
 Select voice like af_bella, am_liam, etc.
 Adjust speed if needed.
 
-# Note: VITS Multilingual and YourTTS support coming soon.
+# Note: VITS Multilingual support coming soon.
 
 ##📄 Summarizer
 Summarize large texts using the T5-small model.
@@ -84,7 +84,7 @@ Enter custom text
 Clone the voice output!
 
 ### ⚠️ Notes
-VITS Multilingual and YourTTS are under integration – stay tuned!
+VITS Multilingual are under integration – stay tuned!
 
 XTTS v2 is disabled due to incompatibility in current 🐸TTS API.
 
