@@ -19,4 +19,3 @@ A multilingual, multi-model Text-to-Speech (TTS) synthesizer built with 🐍 Pyt
 ```bash
 git clone https://github.com/SwapnoneelBarua/multimodel-tts-synthesizer
 cd multimodel-tts-synthesizer
-<!-- forgot the closing triple backticks here -->
